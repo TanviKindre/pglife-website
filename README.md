@@ -1,8 +1,8 @@
-# PGLife Website
+### PGLife Website
 
 Welcome to the PGLife Website repository! This project aims to simplify the process of finding PG accommodations for users through an intuitive and interactive online platform.
 
-## Features:
+### Features:
 
 - **User Authentication:** Sign up and log in securely to access personalized dashboards.
 - **Dynamic Dashboard:** View PG room listings, manage favorites, and explore user profiles.
@@ -10,7 +10,7 @@ Welcome to the PGLife Website repository! This project aims to simplify the proc
 - **City Badges:** Explore major cities with circular badges for quick navigation.
 - **Property Details:** Access detailed information about each property, including amenities, ratings, and testimonials.
 
-## Technologies Used:
+### Technologies Used:
 
 - HTML
 - CSS
