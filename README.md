@@ -23,6 +23,6 @@ Welcome to the PGLife Website repository! This project aims to simplify the proc
 ### **Work sample** 
 Working demo of PGLife website -> https://drive.google.com/file/d/14GpzaIzq6OzWeGr_UOKyWuHxRTTxQmLf/view?usp=drive_link
 
-Creator: For inquiries, collaborations, or further information, please reach out to **tanvikindre739@gmail.com**
+Creator: For inquiries, collaborations, or further information, please reach out to [tanvikindre739@gmail.com](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=tanvikindre739@gmail.com&hl=en-GB)
 
 _Thank you for visiting the PGLife Website repository! Happy browsing!_
